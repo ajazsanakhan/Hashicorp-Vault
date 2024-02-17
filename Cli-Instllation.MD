@@ -1,5 +1,5 @@
 ```yaml
-Install AZ Cli:-
+Install az Cli:-
 curl -sL https://aka.ms/InstallAzureCLIDeb | sudo bash
 Documents Refernce:- https://learn.microsoft.com/en-us/cli/azure/install-azure-cli-linux?pivots=apt
 
